@@ -1,2 +1,2 @@
 # MyStore
-Teste de CRUD em Springboot com JPA e Hibernate
+Teste de CRUD em Java/Springboot com JPA e Hibernate
